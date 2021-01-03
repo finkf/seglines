@@ -19,4 +19,4 @@ Segment the given regions into lines.  If the given region already
 appears to be line segmented, the region is skipped.
 
 ## Installation
-To install just type `go get github.com/cisocrgroup/seglines`.
+To install just type `go get github.com/finkf/seglines`.
